@@ -1,0 +1,6 @@
+{
+  "name": "S K Travels – Car Rental in Arrah, Bihar",
+  "description": "Professional chauffeur-driven Mahindra Scorpio car rental service in Arrah (Ara) and Bhojpur, Bihar. Local, outstation, and wedding travel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
